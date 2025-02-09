@@ -64,4 +64,4 @@ variable "instance_name" {
   type        = string
   default     = "Jumphost-server"
 }
-#Is this a code?
+#Is this a code or what am i seeing?
